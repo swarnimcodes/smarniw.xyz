@@ -1,4 +1,5 @@
 import { defineConfig } from '@adonisjs/vite'
+import tailwindcss from '@tailwindcss/vite'
 
 const viteBackendConfig = defineConfig({
   /**

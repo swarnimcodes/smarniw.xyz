@@ -1,2 +1,2 @@
 # smarniw.xyz
-personal website
+personal website using Astro

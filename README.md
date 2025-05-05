@@ -1,0 +1,2 @@
+# smarniw.xyz
+personal website

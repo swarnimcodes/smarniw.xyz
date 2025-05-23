@@ -9,9 +9,10 @@ footer = false
 
 # If you don't want to display id/bio/avatar, simply comment out that line
 name = "Swarnim"
-id = "smarniw"
-bio = "cat litter-box scooper, software engineer"
-avatar = "img/avatar.webp"
+# id = "smarniw"
+# bio = "cat litter-box scooper, software engineer"
+bio = "software engineer"
+# avatar = "img/avatar.webp"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/swarnimcodes" },
     { name = "LinkedIn", icon = "linkedin", url = "https://www.linkedin.com/in/swarnimbarapatre/" },
@@ -26,4 +27,4 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-Hi, I'm Swarnim.
+Welcome to my space.

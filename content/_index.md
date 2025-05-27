@@ -2,6 +2,7 @@
 template = 'home.html'
 
 [extra]
+title = "serene"
 lang = 'en'
 
 # Show footer in home page
@@ -28,3 +29,5 @@ date_format = "%b %-d, %Y"
 +++
 
 Welcome to my space.
+
+🚧 Website under construction 🚧

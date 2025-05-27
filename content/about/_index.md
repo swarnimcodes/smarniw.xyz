@@ -7,8 +7,8 @@ insert_anchor_links = "none"
 [extra]
 lang = 'en'
 
-title = "Posts"
-subtitle = "I write about ...."
+title = "About"
+# subtitle = "I write about ...."
 
 math = false
 mermaid = false
@@ -17,4 +17,10 @@ comment = false
 reaction = false
 +++
 
-Hi, My name is ....
+## Education 
+
+{{ collection(file="education.toml") }}
+
+## Professional Experience
+
+{{ collection(file="experience.toml") }}

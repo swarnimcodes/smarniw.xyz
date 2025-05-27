@@ -1,5 +1,5 @@
 +++
-title = "Blog"
+title = "~/smarniw/posts"
 description = "Swarnim's Blog"
 sort_by = "date"
 template = "blog.html"

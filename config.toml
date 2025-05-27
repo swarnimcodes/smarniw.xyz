@@ -59,6 +59,6 @@ footer_credits = true # Whether to show "Built with zola and serene" in footer
 not_found_error_text = "404 Not Found"
 not_found_recover_text = "« back to home »"
 
-reaction = false # Whether to enable anonymous emoji reactions (Note: You need to set up a working api endpoint to enable this feature)
+reaction = true # Whether to enable anonymous emoji reactions (Note: You need to set up a working api endpoint to enable this feature)
 reaction_align = "right" # "left" | "center" | "right"
 reaction_endpoint = "https://example.com/api/reaction"

@@ -7,10 +7,10 @@ template = "prose.html"
 title = "Watchlist"
 subtitle = "Some movies & shows I have watched or plan to watch"
 +++
-Watched
+## Watched
 
 {{ collection(file="watched.toml") }}
 
-Watchlist
+## Watchlist
 
 {{ collection(file="watchlist.toml") }}

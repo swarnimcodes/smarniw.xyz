@@ -17,7 +17,7 @@ comment = false
 reaction = false
 +++
 
-## Education 
+## Education
 
 {{ collection(file="education.toml") }}
 

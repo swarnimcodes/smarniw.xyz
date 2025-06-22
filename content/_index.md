@@ -12,7 +12,7 @@ footer = false
 name = "Swarnim"
 # id = "smarniw"
 # bio = "cat litter-box scooper, software engineer"
-bio = "software engineer, cat pspsper"
+bio = "software engineer"
 # avatar = "img/avatar.webp"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/swarnimcodes" },

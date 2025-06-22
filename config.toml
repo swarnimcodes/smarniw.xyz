@@ -45,7 +45,8 @@ sections = [
   { name = "posts", path = "/posts", is_external = false },
   { name = "about", path = "/about", is_external = false },
   { name = "movies", path = "/movies", is_external = false },
-  { name = "books", path = "/books", is_external = false }
+  { name = "books", path = "/books", is_external = false },
+  { name = "resume", path = "/files/swarnim-resume.pdf", is_external = false }
   # { name = "tags", path = "/tags", is_external = false },
   # { name = "github", path = "https://github.com/<your-username>", is_external = true },
 ]

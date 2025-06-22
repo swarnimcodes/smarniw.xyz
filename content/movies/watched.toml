@@ -48,9 +48,31 @@ subtitle = "2005"
 link = "https://letterboxd.com/film/v-for-vendetta/"
 img = "https://a.ltrbxd.com/resized/film-poster/5/1/4/0/0/51400-v-for-vendetta-0-1000-0-1500-crop.jpg"
 
+
 [[collection]]
 type = "art_simple"
-title = "Requiem for a Dream"
+title = "Demolition"
+subtitle = "2015"
+link = "https://letterboxd.com/film/demolition/"
+img = "https://a.ltrbxd.com/resized/sm/upload/eq/0m/h9/y4/xWT9630LEKF9jEXSNjukmpl7mAH-0-1000-0-1500-crop.jpg"
+
+[[collection]]
+type = "art_simple"
+title = "Den Skylidge"
+subtitle = "2018"
+link = "https://letterboxd.com/film/the-guilty-2018/"
+img = "https://a.ltrbxd.com/resized/film-poster/4/1/7/5/1/6/417516-the-guilty-0-1000-0-1500-crop.jpg?v=0dc494a3a4"
+
+[[collection]]
+type = "art_simple"
+title = "Joyland"
+subtitle = "2022"
+link = "https://letterboxd.com/film/joyland-2022/"
+img = "https://a.ltrbxd.com/resized/film-poster/8/6/6/2/7/5/866275-joyland-0-1000-0-1500-crop.jpg?v=b0167b7240"
+
+[[collection]]
+type = "art_simple"
+title = "Requiem for \n a Dream"
 subtitle = "2000"
 link = "https://letterboxd.com/film/requiem-for-a-dream/"
 img = "https://a.ltrbxd.com/resized/sm/upload/lv/4b/f2/zj/muym4jTjdLx7E6as09d1wlC3sOB-0-1000-0-1500-crop.jpg"

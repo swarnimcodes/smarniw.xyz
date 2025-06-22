@@ -20,7 +20,7 @@ links = [
     { name = "Twitter", icon = "twitter", url = "https://twitter.com/svvarnim" },
     { name = "Email", icon = "email", url = "mailto:swarnim335@gmail.com" },
 ]
-
+  
 # Show a few recent posts in home page
 recent = false
 recent_max = 15

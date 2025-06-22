@@ -1,5 +1,5 @@
 +++
-title = "Watchlist"
+title = "Movies"
 description = "abcd"
 template = "prose.html"
 

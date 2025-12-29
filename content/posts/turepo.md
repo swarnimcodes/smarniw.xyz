@@ -159,7 +159,7 @@ good luck to you! Try that thing that you've always wanted to do. The world woul
 definitely be a better place with your creativity in it :)
 
 # Links
-- Turepo GitHub :: https://github.com/swarnimcodes/turepo
-- Turepo Melpa  :: https://melpa.org/#/turepo
-- PR Discussion :: https://github.com/melpa/melpa/pull/9726
+- [Turepo GitHub](https://github.com/swarnimcodes/turepo)
+- [Turepo Melpa](https://melpa.org/#/turepo)
+- [Turepo PR Discussion](https://github.com/melpa/melpa/pull/9726)
 

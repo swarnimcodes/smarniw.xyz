@@ -1,9 +1,10 @@
 +++
 title = "My Emacs plugin got accepted in Melpa!"
 date = 2025-12-27
+updated = 2025-12-29
 [taxonomies]
 tags = ["emacs", "lisp", "plugin"]
-categories = ["emacs"]
+categories = ["2025"]
 
 [extra]
 lang = "en"

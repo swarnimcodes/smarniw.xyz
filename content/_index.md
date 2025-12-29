@@ -6,7 +6,7 @@ title = "serene"
 lang = 'en'
 
 # Show footer in home page
-footer = false
+footer = true
 
 # If you don't want to display id/bio/avatar, simply comment out that line
 name = "Swarnim"
@@ -22,12 +22,17 @@ links = [
 ]
   
 # Show a few recent posts in home page
-recent = false
+recent = true
 recent_max = 15
 recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-Welcome to my space.
+Hello World!
 
-🚧 Website under construction 🚧
+I'm a tinkerer turned software engineer. I build data-oriented fullstack applications
+at work, and recreationally work on building projects and exploring programming paradigms.
+
+I also contribute to open-source.
+  
+Currently running Arch and Emacs without an LSP - come at me.

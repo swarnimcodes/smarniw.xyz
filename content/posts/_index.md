@@ -11,7 +11,7 @@ generate_feeds = true
 lang = "en"
 
 title = "Posts"
-subtitle = "I write about ...."
+subtitle = ""
 
 date_format = "%b %-d, %Y"
 
@@ -20,6 +20,7 @@ back_to_top = true # show back-to-top button
 toc = true # show table-of-contents
 comment = false # enable comment
 copy = true # show copy button in code block
+reaction = true
 
 outdate_alert = true
 outdate_alert_days = 12

@@ -18,12 +18,12 @@ I have been an Emacs user since 4-5 years now. Although admittedly I have also b
 between the two depending on the task at hand and my mood. I have also tried 100s of other
 text-editors but none seem to stick with me as these two. I can never get enough of the
 extensibility of Emacs and obviously [Magit](https://magit.vc/) holds me hostage, like
-every other Emacs user xD. And obviously the efficieny of vim is not unknown.
+every other Emacs user xD. And obviously the efficiency of vim is not unknown.
 
 Each day I used Emacs, I felt like the power to create was at my fingertips but I could
 never find something to create that I found worthwhile; something that I myself would use
 everyday in my development cycle. I tried learning common lisp and elisp, and the syntax
-felt weird because anything I wrote, was a nightmare to read.
+felt weird because anything I wrote was a nightmare to read.
 
 
 # Elisp
@@ -51,7 +51,7 @@ programming. All glazing aside, he posted this video:
 
 This video was so fun to watch while he whooshes his magic wand while making elisp look
 not just readable, but something fun and something I desired to write programs in.
-It was almost enlightening to watch him go through a language that he doesnt program in
+It was almost enlightening to watch him go through a language that he doesn't program in
 and writing code that makes sense to me, sitting probably 1000 miles away.
 
 
@@ -75,7 +75,7 @@ practice. Here is an excerpt from one of the solutions:
 As you might be able to tell, we are implementing wraparound arithmetic here.
 Whether you take a step backwards or forwards, you always stay between 0 and 99.
 This one liner elegantly models the circular knob being talked about in the
-AoC poblem.
+AoC problem.
 
 This was my first glimpse into the potential of elegance that lisp holds
 while not being apologetic for making a mess.
@@ -87,7 +87,7 @@ The idea was stolen directly from [Sylvan Franklin](https://sylvanfranklin.com/)
 I won't go into the details of what I think about him and his content because
 most of his content is irony based on irony lmao.
 
-But this is the video where he implements a convinience script for himself
+But this is the video where he implements a convenience script for himself
 in neovim that does the same thing as my plugin:
 
 <div style="text-align: center;">
@@ -121,7 +121,7 @@ why not let the Melpa maintainers reject it rather than me rejecting it myself.
 So I got to reading the project contribution guidelines so as to not make a fool
 of myself xD. The process was quite straightforward to follow. Essentially, I
 just had to make sure my elisp code compiles cleanly, lint the code with emacs'
-in-built `checkdoc` and then with purcell's (package-lint)[https://github.com/purcell/package-lint].
+in-built `checkdoc` and then with purcell's [package-lint](https://github.com/purcell/package-lint).
 This exposed quite a few ways I could make the plugin better and suited for
 a wider audience. I read tsoding's old plugin that he had submitted for reference.
 And just pressed the submit button and let the anxiousness begin.
@@ -139,8 +139,8 @@ users and the people in general than many enterprise level organisations
 developing critical applications. Melpa has standards and it tries its best
 to adhere to them unlike so many organisations and startups who try to
 introduce standard practices, but introduce unnecessary meetings and
-bureacracy instead. I guess the difference lies in the mindset; open-source
-cares about people, enterprises' livelihood lies in money-making.
+bureaucracy instead. I guess the difference lies in the mindset; open-source
+cares about people, enterprises' livelihoods lie in money-making.
 
 Keeping that aside, I learned a lot from developing and publishing such a simple
 but practical plugin. The sense of accomplishment was more than delivering

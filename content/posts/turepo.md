@@ -13,12 +13,12 @@ reaction = true
 
 # Me and Emacs
 
-I have been an Emacs user since 4-5 years now. Although admittedly I have also been a 
+I have been an Emacs user for 4-5 years now. Although admittedly I have also been a 
 (Neo)Vim user for a longer duration than I have used Emacs. I still switch back-and-forth
 between the two depending on the task at hand and my mood. I have also tried 100s of other
 text-editors but none seem to stick with me as these two. I can never get enough of the
 extensibility of Emacs and obviously [Magit](https://magit.vc/) holds me hostage, like
-every other Emacs user xD. And obviously the efficiency of vim is not unknown.
+every other Emacs user xD. And each child has heard the legend's of Vim's efficiency.
 
 Each day I used Emacs, I felt like the power to create was at my fingertips but I could
 never find something to create that I found worthwhile; something that I myself would use
@@ -49,7 +49,7 @@ programming. All glazing aside, he posted this video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QH6KOEVnSZA?si=2qL2gVHgWxE9dYvj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-This video was so fun to watch while he whooshes his magic wand while making elisp look
+This video was so fun to watch while he whooshes his magic wand making elisp look
 not just readable, but something fun and something I desired to write programs in.
 It was almost enlightening to watch him go through a language that he doesn't program in
 and writing code that makes sense to me, sitting probably 1000 miles away.
@@ -57,7 +57,7 @@ and writing code that makes sense to me, sitting probably 1000 miles away.
 
 # AoC in Elisp
 
-All inspired from watching tsoding's video and ready to write some elisp, turned to
+All inspired from watching tsoding's video and ready to write some elisp, I turned to
 [Advent of Code](https://adventofcode.com/). 
 That seemed like a challenge I could take. And surprisingly, I could
 solve some AoC problems without help from the clanker! Feels so rewarding to
@@ -85,7 +85,7 @@ while not being apologetic for making a mess.
 
 The idea was stolen directly from [Sylvan Franklin](https://sylvanfranklin.com/).
 I won't go into the details of what I think about him and his content because
-most of his content is irony based on irony lmao.
+most of his content is irony layered upon irony lmao.
 
 But this is the video where he implements a convenience script for himself
 in neovim that does the same thing as my plugin:
@@ -99,11 +99,11 @@ I watched this and realised I literally face the same problem at my day job as
 well as when I'm programming _recreationally_. Everytime I have to take certain actions
 through GitHub's web UI, I have to navigate away from my code editor to my browser,
 create a new browser tab, manually enter the URL of the project at hand,
-pray that the browser's auto-complete completes the correct URL, and the proceed
-with whatever I wanted to accomplish; be it merging pull requests or what not.
+pray that the browser's auto-complete completes the correct URL, and then proceed
+with whatever I wanted to accomplish; be it merging pull requests and what not.
 
 This had to be either repeated or I would have to give real-estate to the project's
-github in my browser at all times to prevent repeating this action.
+GitHub in my browser at all times to prevent repeating this action.
 This always bugged me but I never thought of solving this, since it is a
 relatively minor inconvenience; until I saw the video and realised how much
 unnecessary mental overload would I have been relieved of if I had solved this
@@ -116,7 +116,7 @@ Hence [turepo](https://github.com/swarnimcodes/turepo) came into being.
 
 This was my first ever interaction with such a huge and well-maintained open-source
 project. It was quite intimidating to even think that my silly little plugin could
-be of use to someone and could reach a platform like melpa. But I said to myself,
+be of use to someone and could reach a platform like Melpa. But I said to myself,
 why not let the Melpa maintainers reject it rather than me rejecting it myself.
 So I got to reading the project contribution guidelines so as to not make a fool
 of myself xD. The process was quite straightforward to follow. Essentially, I
@@ -154,9 +154,9 @@ Again, it is quite unbelievable that some person from Taiwan literally used
 my code to make his life better and made the efforts to make the plugin better
 for everyone else! 
 
-I dont know how to conclude this but I guess, if anyone is even reading this line,
-good luck to you! Try that thing that you've always wanted to do. The world would
-definitely be a better place with your creativity in it :)
+Turns out that thing I was looking for, to create something I'd use
+everyday, ended up being useful to a few people probably a 1000 miles away too.
+
 
 # Links
 - [Turepo GitHub](https://github.com/swarnimcodes/turepo)

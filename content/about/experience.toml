@@ -1,32 +1,48 @@
 [[collection]]
 type = "card"
 # icon = "/assets/icon-deepseek.svg"
+title = "Plant360.ai"
+link = "https://plant360.ai/"
+subtitle = "FullStack Software Engineer"
+date = "Feb 2026 -- present"
+content = """
+New job! Yay!
+
+From what I understood about the company so far, they (we) are building a platform that
+targets the chemical & mechanical process engineering and harnesses the power of software
+engineering and newly found push from AI to take the mundane process diagrams and
+make the entities something that is trivial to optimize, configure, change, and play with.
+
+This is quite a challenge to take upon and I look forward to learning lots and lots here.
+"""
+
+[[collection]]
+type = "card"
+# icon = "/assets/icon-deepseek.svg"
 title = "Accurate IC"
 link = "https://accurateic.in/"
 subtitle = "FullStack Software Engineer, AI Dept"
-date = "Aug 2024 -- Present"
+date = "Aug 2024 -- Feb 2026"
 content = """
-Worked as a full-stack engineer on projects made for clients such as the Indian Navy, Indian Oil Corp, German Police.
+Worked as a full-stack engineer on projects, collaborating with prestigious institutes
+such as the Indian Navy, Indian Oil Corp, BlueGulf Ship Builders Abu Dhabi.
 
-For the Indian Navy, developed a web application for an in-house
-developed intelligence technology named ISACA
-(Intelligent Situational Collision Avoidance).
-This application functioned without the need of internet
-and internal communication was done through
-radio based intranet. I worked on developing the core
-functionality for the frontend & backend systems
-as well as designing and developing the database.
+My flagship project here was designing and building the entire database structure,
+backend structure as well as professional frontend for **Project ISACA**.
+Project ISACA is an autonomous high-speed water bound vessel that is capable
+of operations ranging from rescuing, surveying as well as attacking; all done
+autonomously! It was a huge responsibilty, considering I was working on building an
+innovative product for our country's defence. And as you can imagine, this
+project is bound to play a huge impact in our country's safety in the upcoming years.
 
-For the German Police, developed an ML-powered GenSet analytics
-and Failure Prediction System codenamed NeuroGen. This is a particularly
-backend & database heavy application. I built the whole application
-basically from scratch. All the
+As you can guess, my work heavily relied upon building reliable databases and backends primarily.
 
 *Technologies:
 [React](https://react.dev/),
 [AdonisJS](https://adonisjs.com/),
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript),
 [TypeScript](https://www.typescriptlang.org/),
+[Go](https://go.dev/),
 [PostgreSQL](https://www.postgresql.org/),
 [Tanstack Query]( https://tanstack.com/query/latest ),
 [Lucid ORM](https://lucid.adonisjs.com/docs/introduction)*
@@ -41,7 +57,29 @@ link = "https://www.mastersofterp.com/"
 subtitle = "Software Engineer, R&D Dept"
 date = "Aug 2023 - Jun 2024"
 content = """
-Worked as a Software Engineer as part of an exclusive R&D Team that worked on building innovative projects 
+
+This was my first foray into the world of professional software engineering!
+I was lucky enough to work with a brilliant manager who guided and taught me a lot about the
+proper mindset to have while buidling large-scale products.
+
+The flagship product I built here was called Panopticon. I am grateful to have been given the
+opportunity to build the entire core functionality and scalability aspects while also have the
+privilege to name it.
+As some of you might guess, Panopticon was an employee performance measurement product.
+This product helped the organization to hire remote talent with utmost confidence since our metrics
+were super accurate and insightful.
+It was an intrusive product for the user but it was eye-opening that I could build it.
+Made me question that if I could build such a sophisticated product, what can the armies
+of countries such as the USA build. Not to make it political but building this product
+made me realise that the next war is indeed going to be an information war first.
+
+*Technologies:
+[Python](https://www.python.org/),
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript),
+[TypeScript](https://www.typescriptlang.org/),
+[Go](https://go.dev/),
+[Flask](https://flask.palletsprojects.com/en/stable/),
+[FastAPI](https://fastapi.tiangolo.com/),
+[Microsoft SQL Server](https://www.microsoft.com/en-in/sql-server/sql-server-downloads),
+[Azure](https://azure.microsoft.com/en-in)*
 """
-
-

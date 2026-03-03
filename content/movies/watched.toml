@@ -1,5 +1,19 @@
 [[collection]]
 type = "art_simple"
+title = "The Wild Robot"
+subtitle = "2024"
+link = "https://letterboxd.com/film/the-wild-robot/"
+img = "https://a.ltrbxd.com/resized/film-poster/1/0/7/1/1/9/6/1071196-the-wild-robot-0-2000-0-3000-crop.jpg"
+
+[[collection]]
+type = "art_simple"
+title = "Big Hero 6"
+subtitle = "2014"
+link = "https://letterboxd.com/film/big-hero-6/"
+img = "https://a.ltrbxd.com/resized/sm/upload/hu/db/3b/mm/q6WZxPlic8hpKzCxnzWOFCCLQfo-0-2000-0-3000-crop.jpg"
+
+[[collection]]
+type = "art_simple"
 title = "Flow"
 subtitle = "2024"
 link = "https://letterboxd.com/film/flow-2024/"

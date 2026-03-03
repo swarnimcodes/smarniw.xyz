@@ -7,6 +7,8 @@ template = "prose.html"
 title = "Watchlist"
 subtitle = "Some movies & shows I have watched or plan to watch"
 +++
+The list is grossly out-of-date, but okay!
+
 ## Watched
 
 {{ collection(file="watched.toml") }}

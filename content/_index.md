@@ -12,7 +12,7 @@ footer = true
 name = "Swarnim"
 # id = "smarniw"
 # bio = "cat litter-box scooper, software engineer"
-bio = "software engineer"
+bio = "software engineer | professional cat pspsper"
 # avatar = "img/avatar.webp"
 links = [
     { name = "GitHub", icon = "github", url = "https://github.com/swarnimcodes" },
@@ -28,11 +28,13 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-Hello World!
+Hello, World!
 
-I'm a tinkerer turned software engineer. I build data-oriented fullstack applications
-at work, and recreationally work on building projects and exploring programming paradigms.
+I'm a tinkerer turned software engineer. 
 
+For bread, I build high-impact full-stack solutions.
+
+For staying sane, I love to do some recreational programming without the help from AI overlords. 
 I also contribute to open-source.
-  
-Currently running Arch and Emacs without an LSP - come at me.
+
+For fun, I love to ride and work on bikes.

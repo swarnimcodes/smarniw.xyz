@@ -61,4 +61,4 @@ not_found_recover_text = "« back to home »"
 
 reaction = true # Whether to enable anonymous emoji reactions (Note: You need to set up a working api endpoint to enable this feature)
 reaction_align = "right" # "left" | "center" | "right"
-reaction_endpoint = "http://localhost:3000/api/reaction"
+reaction_endpoint = "https://blogreactions.smarniw.com"
